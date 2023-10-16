@@ -1,0 +1,19 @@
+
+D
+java:S1604Ó"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+D
+java:S1604ñ"(Make this anonymous inner class a lambda(¢ÄÊåùÿÿÿÿ
+=
+java:S1168§"&Return an empty array instead of null.(¥¹ï
+M
+java:S1874Ó"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+K
+java:S1874Ó"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+M
+java:S1874ñ"1Remove this use of "AsyncTask"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+K
+java:S1874ñ"/Remove this use of "execute"; it is deprecated.(¢ÄÊåùÿÿÿÿ
+T
+java:S1117¥"8Rename "tag" which hides the field declared at line 777.( æà›ÿÿÿÿÿ
+V
+java:S1117¦":Rename "value" which hides the field declared at line 778.(Àåş°ıÿÿÿÿ

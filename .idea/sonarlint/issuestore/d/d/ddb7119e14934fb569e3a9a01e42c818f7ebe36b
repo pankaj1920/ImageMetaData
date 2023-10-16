@@ -1,0 +1,17 @@
+
+J
+java:S1604p"(Make this anonymous inner class a lambda(ãÊ¡ûÿÿÿÿ8€ªº³1
+q
+java:S2095L"TUse try-with-resources or close this "MediaMetadataRetriever" in a "finally" clause.(øæ‚Õ8Çªº³1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ8Óªº³1
+_
+java:S1874h"=Remove this use of "setSystemUiVisibility"; it is deprecated.(ÁÆÅ·ÿÿÿÿÿ8‚«º³1
+i
+java:S1874h"GRemove this use of "SYSTEM_UI_FLAG_LIGHT_STATUS_BAR"; it is deprecated.(ÁÆÅ·ÿÿÿÿÿ8‚«º³1
+_
+java:S1874s"=Remove this use of "setSystemUiVisibility"; it is deprecated.(ëåÄûÿÿÿÿ8„«º³1
+Z
+java:S1874{"=Remove this use of "getSystemUiVisibility"; it is deprecated.(¥º€®8…«º³1
+Q
+java:S1874".Remove this use of "locale"; it is deprecated.(ÖÚªÕıÿÿÿÿ8«º³1

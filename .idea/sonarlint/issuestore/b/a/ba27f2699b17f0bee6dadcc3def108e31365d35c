@@ -1,0 +1,15 @@
+
+d
+java:S1192/"IDefine a constant instead of duplicating this literal "external" 3 times.(¢¾å‡üÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¹‘
+Q	java:S125-"<This block of commented-out lines of code should be removed.(ÙË³‡
+h
+java:S3252<"MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(ıíŞÒùÿÿÿÿ
+m
+java:S3252="RUse static access with "android.provider.MediaStore$MediaColumns" for "MIME_TYPE".(åüÜ²ıÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(âµ†ûÿÿÿÿ
+h
+java:S3252Y"MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(˜×“úÿÿÿÿ
+m
+java:S3252Z"RUse static access with "android.provider.MediaStore$MediaColumns" for "MIME_TYPE".(ÕáŸêûÿÿÿÿ

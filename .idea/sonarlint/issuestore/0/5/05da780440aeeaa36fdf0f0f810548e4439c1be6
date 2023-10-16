@@ -1,0 +1,212 @@
+
+|
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(»ò©Ÿúÿÿÿÿ8ù§¼·³1
+w
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(—À¿ò8ú§¼·³1
+w
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(—À¿ò8ú§¼·³1
+M
+java:S1066Ğ"/Merge this if statement with the enclosing one.(…‘§İ8û§¼·³1
+“
+java:S1319¸"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(½ŠÍÕøÿÿÿÿ8û§¼·³1
+n	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æôŒ8û§¼·³1
+s	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áŠÒÃøÿÿÿÿ8ü§¼·³1
+m	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½±‡`8ü§¼·³1
+n	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡œÊË8ü§¼·³1
+n	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùòí8ü§¼·³1
+s	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂªõÜøÿÿÿÿ8ü§¼·³1
+s	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¬Óÿÿÿÿÿ8ü§¼·³1
+s	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ¿ñÙùÿÿÿÿ8ü§¼·³1
+n	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÌù8ü§¼·³1
+K
+java:S1604Ğ"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ8ü§¼·³1
+K
+java:S1604"(Make this anonymous inner class a lambda(ª¥‚æÿÿÿÿÿ8ı§¼·³1
+i
+java:S1301Ä"KReplace this "switch" statement by "if" statements to increase readability.(çªğİ8ı§¼·³1
+}
+java:S1488ü"_Immediately return this expression instead of assigning it to the temporary variable "degrees".(ˆÂ‚8ş§¼·³1
+K
+java:S5411°"(Use a primitive boolean expression here.(°‚èäúÿÿÿÿ8€¨¼·³1
+p
+java:S2095û"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(õúÇæ8ã©¼·³1
+t
+java:S2095ù"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(ÂªõÜøÿÿÿÿ8ã©¼·³1
+U
+java:S2589¶"7Remove this expression which always evaluates to "true"(ß§Õã8ä©¼·³1
+u	java:S116X"YRename this field "bitmap_visible" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—êÿ8å©¼·³1
+x	java:S116Y"WRename this field "bitmap_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÍÇÏûÿÿÿÿ8å©¼·³1
+{	java:S116Z"ZRename this field "bitmap_original" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÁ†ëúÿÿÿÿ8å©¼·³1
+w	java:S116a"VRename this field "call_intent" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‡ãÀşÿÿÿÿ8å©¼·³1
+y	java:S116g"XRename this field "image_display" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¨»§øÿÿÿÿ8å©¼·³1
+p	java:S116h"TRename this field "edit_size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼åµ¤8å©¼·³1
+z	java:S116y"YRename this field "bubble_visible" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Û¶ øÿÿÿÿ8å©¼·³1
+{	java:S116"ZRename this field "no_image_loaded" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆĞš‚şÿÿÿÿ8å©¼·³1
+}	java:S116†"aRename this field "gallery_already_called" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÓóD8å©¼·³1
+y	java:S116"WRename this field "cut_line_top" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓîÏüÿÿÿÿ8å©¼·³1
+w	java:S116"ZRename this field "cut_line_bottom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èæûå8å©¼·³1
+t	java:S116‘"XRename this field "cut_line_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‚‰f8æ©¼·³1
+{	java:S116’"YRename this field "cut_line_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚­şşüÿÿÿÿ8æ©¼·³1
+x	java:S116“"VRename this field "scale_ratio" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¬¦üÿÿÿÿ8æ©¼·³1
+m	java:S116"PRename this field "x_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÈŸÄ8æ©¼·³1
+m	java:S116"PRename this field "y_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıË×†8æ©¼·³1
+s	java:S116Ÿ"QRename this field "x1_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ó™ôùÿÿÿÿ8æ©¼·³1
+n	java:S116 "QRename this field "y1_pos" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ğ†Ì8æ©¼·³1
+}	java:S116³"[Rename this field "x1_choose_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì…ˆûÿÿÿÿ8æ©¼·³1
+x	java:S116´"[Rename this field "x2_choose_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯§­Ï8æ©¼·³1
+}	java:S116µ"[Rename this field "y1_choose_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê°Şıÿÿÿÿÿ8æ©¼·³1
+w	java:S116¶"[Rename this field "y2_choose_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤İÛ.8æ©¼·³1
+„	java:S116½"bRename this field "image_needs_to_be_saved" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ›™ÿÿÿÿÿ8æ©¼·³1
+	java:S116İ"_Rename this field "jpeg_ecoded_filesize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”åµşÿÿÿÿ8æ©¼·³1
+…	java:S116ç"cRename this field "next_quality_update_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÀ²óüÿÿÿÿ8æ©¼·³1
+‰	java:S116ğ"gRename this field "quality_update_is_dispatched" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€çƒ°úÿÿÿÿ8æ©¼·³1
+‚	java:S116ö"fRename this field "piping_was_already_launched" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÀ­8æ©¼·³1
+v	java:S116–"YRename this field "textStyle_bold" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÎïõ8æ©¼·³1
+}	java:S116—"[Rename this field "textStyle_italic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÒÀÒùÿÿÿÿ8æ©¼·³1
+{	java:S116˜"^Rename this field "textStyle_underline" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë§¦ä8æ©¼·³1
+	java:S116™"bRename this field "textStyle_strikethrough" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï›¼Ÿ8æ©¼·³1
+C
+java:S1170y"!Make this final field static too.(”Û¶ øÿÿÿÿ8è©¼·³1
+€
+java:S1450Z"^Remove the "bitmap_original" field and declare it as a local variable in the relevant methods.(ÌÁ†ëúÿÿÿÿ8ì©¼·³1
+z
+java:S1450X"]Remove the "bitmap_visible" field and declare it as a local variable in the relevant methods.(—êÿ8ì©¼·³1
+‚
+java:S1450†"eRemove the "gallery_already_called" field and declare it as a local variable in the relevant methods.(şÓóD8í©¼·³1
+
+java:S1450¥"dRemove the "loadingImageIsRunning" field and declare it as a local variable in the relevant methods.(¡¸Ç58í©¼·³1
+ƒ
+java:S1450n"aRemove the "savedInstanceState" field and declare it as a local variable in the relevant methods.(ïôÈ‹ùÿÿÿÿ8í©¼·³1
+c
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(€µÅ8ø©¼·³1
+h
+java:S1124ª"EReorder the modifiers to comply with the Java Language Specification.(şëÁÒüÿÿÿÿ8ø©¼·³1
+c
+java:S1124«"EReorder the modifiers to comply with the Java Language Specification.(ïÔ¹8ø©¼·³1
+c
+java:S1124¬"EReorder the modifiers to comply with the Java Language Specification.(Öê›8ø©¼·³1
+X
+java:S1118ş":Add a private constructor to hide the implicit public one.(“‰Íµ8ú©¼·³1
+h
+java:S1124ÿ"EReorder the modifiers to comply with the Java Language Specification.( æ±Éøÿÿÿÿ8ú©¼·³1
+h
+java:S1124€"EReorder the modifiers to comply with the Java Language Specification.(´öŞûÿÿÿÿ8ú©¼·³1
+h
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ä¯’ğûÿÿÿÿ8ú©¼·³1
+h
+java:S1124‚"EReorder the modifiers to comply with the Java Language Specification.(’Ã”şÿÿÿÿ8ú©¼·³1
+c
+java:S1124ƒ"EReorder the modifiers to comply with the Java Language Specification.(³Ñ‘ó8û©¼·³1
+c
+java:S1124„"EReorder the modifiers to comply with the Java Language Specification.(Ö¬Åø8û©¼·³1
+]
+java:S1118¨":Add a private constructor to hide the implicit public one.( Ç¶²ùÿÿÿÿ8ü©¼·³1
+c
+java:S1124©"EReorder the modifiers to comply with the Java Language Specification.(Ö¡ˆ8ü©¼·³1
+c
+java:S1124ª"EReorder the modifiers to comply with the Java Language Specification.(Ş¼ò°8ü©¼·³1
+X
+java:S1118°":Add a private constructor to hide the implicit public one.(¯ì’Ë8ü©¼·³1
+c
+java:S1124°"EReorder the modifiers to comply with the Java Language Specification.(¯ì’Ë8ı©¼·³1
+c
+java:S1124²"EReorder the modifiers to comply with the Java Language Specification.(ßŠÀ„8ı©¼·³1
+c
+java:S1124³"EReorder the modifiers to comply with the Java Language Specification.(–Ó¾8ı©¼·³1
+h
+java:S1124´"EReorder the modifiers to comply with the Java Language Specification.(Éâ¡€şÿÿÿÿ8ı©¼·³1
+h
+java:S1124µ"EReorder the modifiers to comply with the Java Language Specification.(»Ñ‚€úÿÿÿÿ8ı©¼·³1
+c
+java:S1124¶"EReorder the modifiers to comply with the Java Language Specification.(¶àö‚8ı©¼·³1
+O
+java:S1602ã",Remove useless curly braces around statement(şå–óşÿÿÿÿ8‚ª¼·³1
+O
+java:S1602é",Remove useless curly braces around statement(Â•ıÿÿÿÿ8ƒª¼·³1
+p
+java:S3252ô"MUse static access with "android.provider.MediaStore$MediaColumns" for "DATA".(‰§‚ãüÿÿÿÿ8„ª¼·³1
+w
+java:S3252ô"TUse static access with "android.provider.MediaStore$MediaColumns" for "ORIENTATION".(‰§‚ãüÿÿÿÿ8„ª¼·³1
+^
+java:S1854";Remove this useless assignment to local variable "degrees".(œßªÿÿÿÿÿ8†ª¼·³1
+^	java:S125"<This block of commented-out lines of code should be removed.(—¨Ü¡şÿÿÿÿ8†ª¼·³1
+^	java:S125“"<This block of commented-out lines of code should be removed.(»°¬‘øÿÿÿÿ8‹ª¼·³1
+^	java:S125¦"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Œª¼·³1
+?	java:S131Ä""Add a default case to this switch.(çªğİ8ª¼·³1
+`
+java:S1874Ë"CRemove this use of "getParcelableArrayListExtra"; it is deprecated.(½±‡`8’ª¼·³1
+M
+java:S1172ò"/Remove this unused method parameter "noShrink".(¡œÊË8›ª¼·³1
+P
+java:S1481ô"2Remove this unused "originalWidth" local variable.(ÚÕ ®8œª¼·³1
+V
+java:S1481õ"3Remove this unused "originalHeight" local variable.(Ğñ®›úÿÿÿÿ8œª¼·³1
+^	java:S125†"<This block of commented-out lines of code should be removed.(Şø©‚üÿÿÿÿ8¡ª¼·³1
+^	java:S125™"<This block of commented-out lines of code should be removed.(ÓïÆüşÿÿÿÿ8¡ª¼·³1
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(æˆÅê8¡ª¼·³1
+Y	java:S125¥"<This block of commented-out lines of code should be removed.(ï–‘·8¡ª¼·³1
+^	java:S125Å"<This block of commented-out lines of code should be removed.(„¼§´şÿÿÿÿ8¢ª¼·³1
+Y	java:S125ß"<This block of commented-out lines of code should be removed.(–èÂš8¦ª¼·³1
+Y	java:S125›"<This block of commented-out lines of code should be removed.(ûíÁ‡8·ª¼·³1
+S
+java:S1068-"6Remove this unused "SIS_SAVEDIMAGE_URI" private field.(ïÕÁã8·ª¼·³1
+V
+java:S1068."9Remove this unused "SIS_ORIGINALIMAGE_URI" private field.(ÏÖÄ 8·ª¼·³1
+[
+java:S10681"9Remove this unused "SIS_ORIGINAL_FILESIZE" private field.(ñòæüÿÿÿÿ8·ª¼·³1
+^
+java:S1068E"<Remove this unused "hasReadStoragePermission" private field.(°æíùÿÿÿÿ8·ª¼·³1
+Y
+java:S1068F"=Remove this unused "hasWriteStoragePermission" private field.(úëÓU8¸ª¼·³1
+O
+java:S1068X"2Remove this unused "bitmap_visible" private field.(—êÿ8¸ª¼·³1
+U
+java:S1068Z"3Remove this unused "bitmap_original" private field.(ÌÁ†ëúÿÿÿÿ8¸ª¼·³1
+Q
+java:S1068a"/Remove this unused "call_intent" private field.(å‡ãÀşÿÿÿÿ8¸ª¼·³1
+S
+java:S1068g"1Remove this unused "image_display" private field.(¦¨»§øÿÿÿÿ8¸ª¼·³1
+J
+java:S1068h"-Remove this unused "edit_size" private field.(¼åµ¤8¸ª¼·³1
+X
+java:S1068n"6Remove this unused "savedInstanceState" private field.(ïôÈ‹ùÿÿÿÿ8¸ª¼·³1
+T
+java:S1068y"2Remove this unused "bubble_visible" private field.(”Û¶ øÿÿÿÿ8¸ª¼·³1
+W
+java:S1068†":Remove this unused "gallery_already_called" private field.(şÓóD8¸ª¼·³1
+N
+java:S1068©"0Remove this unused "LEFT_CUTLINE" private field.(€µÅ8¸ª¼·³1
+T
+java:S1068ª"1Remove this unused "RIGHT_CUTLINE" private field.(şëÁÒüÿÿÿÿ8¹ª¼·³1
+M
+java:S1068«"/Remove this unused "TOP_CUTLINE" private field.(ïÔ¹8¹ª¼·³1
+P
+java:S1068¬"2Remove this unused "BOTTOM_CUTLINE" private field.(Öê›8¹ª¼·³1
+W
+java:S1068³"4Remove this unused "x1_choose_button" private field.(ì…ˆûÿÿÿÿ8¹ª¼·³1
+R
+java:S1068´"4Remove this unused "x2_choose_button" private field.(¯§­Ï8¹ª¼·³1
+W
+java:S1068µ"4Remove this unused "y1_choose_button" private field.(Ê°Şıÿÿÿÿÿ8¹ª¼·³1
+Q
+java:S1068¶"4Remove this unused "y2_choose_button" private field.(¤İÛ.8¹ª¼·³1
+_
+java:S1068ç"<Remove this unused "next_quality_update_time" private field.(ŸÀ²óüÿÿÿÿ8¹ª¼·³1
+X
+java:S1068î":Remove this unused "NEXT_UPDATE_TIME_DELAY" private field.(Šõ‹¯8¹ª¼·³1
+c
+java:S1068ğ"@Remove this unused "quality_update_is_dispatched" private field.(€çƒ°úÿÿÿÿ8¹ª¼·³1
+W
+java:S1068ø"4Remove this unused "useScopedStorage" private field.(­¶´ùÿÿÿÿ8¹ª¼·³1
+O
+java:S1068‘"1Remove this unused "lastPaintTool" private field.(€©ƒã8¹ª¼·³1
+V
+java:S1068¥"9Remove this unused "loadingImageIsRunning" private field.(¡¸Ç58ºª¼·³1
+J
+java:S1068­",Remove this unused "workmode" private field.(Û¿Íª8ºª¼·³1
+V
+java:S1068®"3Remove this unused "workmodeVisible" private field.(û•§¢ÿÿÿÿÿ8ºª¼·³1
+Y
+java:S1144Ê"<Remove this unused private "getMultipleUriArrayList" method.(²Œºt8ºª¼·³1
+Y
+java:S1144ò";Remove this unused private "readImageBitmapFromUri" method.(¡œÊË8ºª¼·³1
